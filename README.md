@@ -1,6 +1,6 @@
 # AWS S3 Assignment
 
-Created S3 bucket, uploaded objects, configured permissions, and hosted a static website.
+Created S3 bucket, uploaded object, configured permissions, and hosted a static website.
 
 ## Frontend Mentee
 
